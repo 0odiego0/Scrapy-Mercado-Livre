@@ -12,7 +12,7 @@ Extrair dados estruturados de notebooks listados no Mercado Livre para fins de:
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python 3.10+
 - Scrapy
